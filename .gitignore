@@ -3,5 +3,7 @@ tmp/
 index.html_old
 
 .DS_Store
+
 Thumbs.db
-img.NeuroStartUp.png_backup
+
+.img/NeuroStartUp.png_backup
