@@ -4,6 +4,6 @@ index.html_old
 
 .DS_Store
 
-/.Thumbs.db
+/.Thumbs.db*
 
-/.NeuroStartUp.png_backup
+/.NeuroStartUp.png_backup*
